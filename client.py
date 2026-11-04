@@ -2,7 +2,7 @@
 
 import socket
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM) #создание TCP/IP сокета для клиента
-client.connect(("0.0.0.0", 2222))
+client.connect(("localhost", 8888))
 
 while True:
     msg = input() #запрос сообщения от пользователя
