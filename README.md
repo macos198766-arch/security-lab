@@ -3,7 +3,7 @@
 
 ## Стек
 - Python 3
-- Sockets, Threading
+- Sockets, Threading, Sqlite3, Queue
 
 ## Как запустить
 1. python server.py
