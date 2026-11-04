@@ -6,6 +6,7 @@
 - Sockets, Threading, Sqlite3, Queue
 
 ## Как запустить
-```python server.py
+```
+python server.py
 python client.py
 ```
