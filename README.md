@@ -7,4 +7,5 @@
 
 ## Как запустить
 ```python server.py
-python client.py```
+python client.py
+```
